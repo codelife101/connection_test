@@ -61,14 +61,14 @@ textarea
 .nameInput, .conversationInput,
 .textInput{
     padding-bottom:3px;
-    border-bottom: 3px solid #adddd2;
+    border-bottom: 3px solid #9ad4e8;
     font-family: 'Bree Serif', serif;
 }
 
 
 .submitBtn{
     font-size: 15px;
-    border: 3px solid #adddd2;
+    border: 3px solid #9ad4e8;
     padding: 10px;
     font-family: 'Bree Serif', serif;
 }
@@ -86,7 +86,7 @@ textarea
     font-family: 'Bebas Neue', cursive;
     letter-spacing: 10px;
     font-size: 50px;
-    color:  #adddd2;
+    color:  #9ad4e8;
 }
 
 .voucherImg{
